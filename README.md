@@ -1,2 +1,0 @@
-# ecoplus
-Web project
